@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class Inside1Config(AppConfig):
+class ChaiConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'inside1'
+    name = 'chai'
